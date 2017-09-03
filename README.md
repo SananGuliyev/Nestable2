@@ -430,7 +430,7 @@ Original Author: David Bushell [http://dbushell.com](http://dbushell.com/) [@dbu
 
 New Author     : Ramon Smit    [http://ramonsmit.nl](http://ramonsmit.nl) [@ramonsmit94](https://twitter.com/Ram0nSm1t/)
 
-Contributors :
+Users:
 
 * [http://visaforazerbaijan.com](http://visaforazerbaijan.com), Visa for Azerbaijan
 
