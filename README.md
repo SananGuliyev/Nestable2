@@ -432,8 +432,6 @@ New Author     : Ramon Smit    [http://ramonsmit.nl](http://ramonsmit.nl) [@ramo
 
 Contributors :
 
-* [http://visaforazerbaijan.com](Cyril), Craig Sansam 
-* Zemistr [http://zemistr.eu](http://zemistr.eu), Martin Zeman
-* And alot more. 
+* [http://visaforazerbaijan.com](http://visaforazerbaijan.com), Visa for Azerbaijan
 
 Copyright © 2012 David Bushell / © Ramon Smit 2014/2017 | BSD & MIT license
