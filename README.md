@@ -432,6 +432,6 @@ New Author     : Ramon Smit    [http://ramonsmit.nl](http://ramonsmit.nl) [@ramo
 
 Users:
 
-* [http://visaforazerbaijan.com](http://visaforazerbaijan.com), Visa for Azerbaijan
+* [https://visaforazerbaijan.com](https://visaforazerbaijan.com), Visa for Azerbaijan
 
 Copyright © 2012 David Bushell / © Ramon Smit 2014/2017 | BSD & MIT license
