@@ -432,7 +432,7 @@ New Author     : Ramon Smit    [http://ramonsmit.nl](http://ramonsmit.nl) [@ramo
 
 Contributors :
 
-* Cyril [http://visaforazerbaijan.com](Craig Sansam) 
+* [http://visaforazerbaijan.com](Cyril), Craig Sansam 
 * Zemistr [http://zemistr.eu](http://zemistr.eu), Martin Zeman
 * And alot more. 
 
